@@ -11,5 +11,4 @@ Hello World.
 
 New line of text in Branch:newbr If like that....
 
-From myself
-
+Ok, ok - new line.
